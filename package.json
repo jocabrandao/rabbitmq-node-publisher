@@ -1,0 +1,17 @@
+{
+  "name": "rabbitmq-publisher",
+  "version": "1.0.0",
+  "description": "RabbitMQ Publisher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Carlos Brandão Morgado",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.1",
+    "body-parser": "^1.17.2",
+    "consign": "^0.1.5",
+    "express": "^4.15.3"
+  }
+}
