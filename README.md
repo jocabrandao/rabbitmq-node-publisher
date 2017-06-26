@@ -284,7 +284,7 @@ Observer no terminal o resultado obtido será:
 
 ## Autor
 
-* **João Carlos Brandão Morgado** - *Initial work* - [joaobrandao](https://github.com/jocabrandao)
+* **João Carlos Brandão Morgado** - *Trabalho Inicial* - [joaobrandao](https://github.com/jocabrandao)
 
 ## Licença
 
