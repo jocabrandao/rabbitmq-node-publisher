@@ -73,7 +73,7 @@ Ok, estamos prontos para executar o projeto!
 ## Executando o container do RabbitMQ
 
 ```
-$ docker run -d --hostname poosh-mq -p 8080:15672 -p 5672:5672 rabbitmq:3-management
+$ docker run -d --hostname rabbitMQ -p 8080:15672 -p 5672:5672 rabbitmq:3-management
 ```
 Desta forma, estamos dizendo ao RabbitMQ que ele deverá ser executado e aguardar requisições na porta 8080 para administração e 5672 para recepção de mensagens nas filas e processamento.
 
